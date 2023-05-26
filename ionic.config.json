@@ -1,0 +1,8 @@
+{
+  "name": "Txominaco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2f77230b"
+}
